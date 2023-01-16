@@ -2,4 +2,7 @@ Milk
 Break
 Bananas
 Eggs
-
+Mayonnaise
+BBQ Sauce
+Rice
+onion
